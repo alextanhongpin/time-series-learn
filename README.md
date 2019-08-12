@@ -16,6 +16,12 @@ References:
 - https://blog.avinetworks.com/adding-muscle-to-anomaly-detection
 - https://www.elegantjbi.com/blog/what-is-the-holt-winters-forecasting-algorithm-and-how-can-it-be-used-for-enterprise-analysis.htm
 
+## Anomaly detection with Time Series
+
+## Time Series for Infrastructure
+
+https://towardsdatascience.com/modernize-your-it-infrastructure-monitoring-by-combining-time-series-databases-with-machine-447bb9e9cd35
+
 ## Forecasting
 
 References:
